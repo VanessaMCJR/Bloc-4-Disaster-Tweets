@@ -28,9 +28,9 @@ Dans ce projet, il y a 2 dossiers:
         
         
 - **dossier deep_learning_BERT**: 
-        - fichier disaster_tweets_bert.ipynb (code)
-        - sample_submission_bert.csv
-        .train.csv
+        - fichier disaster_tweets_bert.ipynb (code) ####
+        - sample_submission_bert.csv ####
+        - train.csv####
         .test.csv
      
      
