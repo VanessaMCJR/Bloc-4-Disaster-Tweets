@@ -23,8 +23,8 @@ Dans ce projet, il y a 2 dossiers:
    - sample_submission.csv
    - train.csv
    - test.csv
-   - un dossier : ** disaster_tweetsfinal.h2 ** qui est la sauvegarde du modèle final
-   - un dossier : ** training_version_lstm5b ** qui est la sauvegarde de tous les checkpoints du modèle.
+   - un dossier : **disaster_tweetsfinal.h2** qui est la sauvegarde du modèle final
+   - un dossier : **training_version_lstm5b** qui est la sauvegarde de tous les checkpoints du modèle.
         
         
 - **dossier deep_learning_BERT**: 
