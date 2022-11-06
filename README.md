@@ -27,7 +27,7 @@ Dans ce projet, il y a 2 dossiers:
         . un dossier : ** training_version_lstm5b ** qui est la sauvegarde de tous les checkpoints du modèle.
         
         
-**dossier deep_learning_bert**: 
+- **dossier deep_learning_bert**: 
         . fichier disaster_tweets_bert.ipynb (code)
         . sample_submission_bert.csv
         . train.csv
@@ -37,18 +37,18 @@ Dans ce projet, il y a 2 dossiers:
 Et ici sont les liens :
 
 
-** Liens pour le dossier "training_1_tweet" pour le modèle BERT**: (sauvegarde 1 èr checkpoint du modèle BERT)
+**Liens pour le dossier "training_1_tweet" pour le modèle BERT**: (sauvegarde 1 ère checkpoint du modèle BERT)
 
 
 https://drive.google.com/drive/folders/1O1gophp0N1YTlzfIhiip_0fgq2RHjHed?usp=share_link
 
 
-** Liens pour le dossier "training_2_tweet" pour le modèle BERT**: (sauvegarde du 2 ème checkpoint du modèle BERT)
+**Liens pour le dossier "training_2_tweet" pour le modèle BERT**: (sauvegarde du 2 ème checkpoint du modèle BERT)
 
 https://drive.google.com/drive/folders/1RyEQdS8trHZYcRjY0x4XooHF0Yqbo9Bm?usp=share_link
 
 
-** Liens pour le dossier "disaster_tweets.h2" pour le modèle BERT**: (sauvegarde du modèle final BERT)
+**Liens pour le dossier "disaster_tweets.h2" pour le modèle BERT**: (sauvegarde du modèle final BERT)
 
 
 https://drive.google.com/drive/folders/1SsCWbJADsygtu18TX4skcdo2lyqWO9gC?usp=share_link
