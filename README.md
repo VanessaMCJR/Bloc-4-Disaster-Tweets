@@ -19,20 +19,20 @@ Dans ce concours, vous êtes mis au défi de créer un modèle d'apprentissage a
 Dans ce projet, il y a 2 dossiers:
 
 - **dossier deep_learning_LSTM**: 
-   - ***fichier Disaster_tweets.ipynb (code)
-   - ***sample_submission.csv
-   - ***train.csv
-   - ***test.csv
-   - ***un dossier : ** disaster_tweetsfinal.h2 ** qui est la sauvegarde du modèle final
-   - ***un dossier : ** training_version_lstm5b ** qui est la sauvegarde de tous les checkpoints du modèle.
+   - fichier Disaster_tweets.ipynb (code)
+   - sample_submission.csv
+   - train.csv
+   - test.csv
+   - un dossier : ** disaster_tweetsfinal.h2 ** qui est la sauvegarde du modèle final
+   - un dossier : ** training_version_lstm5b ** qui est la sauvegarde de tous les checkpoints du modèle.
         
         
 - **dossier deep_learning_BERT**: 
   
-  - ***fichier disaster_tweets_bert.ipynb (code) 
-  - ***sample_submission_bert.csv
-  - ***train.csv
-  - ***test.csv
+  - fichier disaster_tweets_bert.ipynb (code) 
+  - sample_submission_bert.csv
+  - train.csv
+  - test.csv
      
      
 Et ici sont les liens :
