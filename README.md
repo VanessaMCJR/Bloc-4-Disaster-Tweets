@@ -1,5 +1,9 @@
 # Bloc-4-Disaster-Tweets
 
+## Lien de présentation du projet:
+
+https://share.vidyard.com/watch/TUqVebn6DCroUmEy7KYQPK?
+
 
 ## Description du concours
 
@@ -21,8 +25,8 @@ Dans ce projet, il y a 2 dossiers:
 - **dossier deep_learning_LSTM**: 
    - fichier Disaster_tweets.ipynb (code)
    - sample_submission.csv
-   - train.csv
-   - test.csv
+   - train.csv (dataset d'entraînement)
+   - test.csv (dataset uniquement pour la prédiction)
    - image_training_val_accuracy.png
    - image_training_val_loss.png
    - un dossier : **disaster_tweetsfinal.h2** qui est la sauvegarde du modèle final
@@ -33,8 +37,8 @@ Dans ce projet, il y a 2 dossiers:
   
   - fichier disaster_tweets_bert.ipynb (code) 
   - sample_submission_bert.csv
-  - train.csv
-  - test.csv
+  - train.csv (dataset d'entraînement)
+  - test.csv (dataset uniquement pour la prédiction)
      
      
 Et ici sont les liens :
